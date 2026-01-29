@@ -1,0 +1,5 @@
+{
+  "name": "Smart Analyzer Icon Gen",
+  "description": "A tool to generate macOS-style application icons for the Smart Analyzer text processing application using Gemini.",
+  "requestFramePermissions": []
+}
